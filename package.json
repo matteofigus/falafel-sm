@@ -1,10 +1,10 @@
 {
-  "name": "falafel",
+  "name": "falafel-sm",
   "description": "transform the ast on a recursive walk",
   "version": "2.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/node-falafel.git"
+    "url": "git://github.com/matteofigus/falafel-sm.git"
   },
   "main": "index.js",
   "keywords": [
